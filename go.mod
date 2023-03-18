@@ -1,4 +1,4 @@
-module github.com/divyanshsikarwar/go-sitemap-generator
+module github.com/divyanshsikarwar/StMapGen
 
 go 1.0.0
 
